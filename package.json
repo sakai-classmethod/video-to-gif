@@ -1,0 +1,16 @@
+{
+  "name": "create-gif",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/fluent-ffmpeg": "^2.1.27",
+    "@types/node": "^22.10.2",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
